@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/897.eb518c31.chunk.css","mappings":"AAEA,qBAGE,WAFA,eAGA,gBAFA,aAEA","sources":["components/pages/Series/Series.module.scss"],"sourcesContent":["@import \"../../../../sass/variables/sizes\";\r\n\r\n.title {\r\n  font-size: 2rem;\r\n  margin: 25px 0;\r\n  color: #fff;\r\n  font-weight: 500;\r\n}\r\n"],"names":[],"sourceRoot":""}
