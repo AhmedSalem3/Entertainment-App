@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Entertainment-App/static/css/main.e4f376ee.css",
-    "main.js": "/Entertainment-App/static/js/main.de9c2c32.js",
+    "main.css": "/Entertainment-App/static/css/main.b3b5c60a.css",
+    "main.js": "/Entertainment-App/static/js/main.a202cb27.js",
     "static/css/307.4ab14241.chunk.css": "/Entertainment-App/static/css/307.4ab14241.chunk.css",
     "static/js/307.e0526357.chunk.js": "/Entertainment-App/static/js/307.e0526357.chunk.js",
     "static/css/897.eb518c31.chunk.css": "/Entertainment-App/static/css/897.eb518c31.chunk.css",
@@ -13,8 +13,8 @@
     "static/media/icon-category-movie.svg": "/Entertainment-App/static/media/icon-category-movie.6861d0ce9036ac864b87dc5aff6570c3.svg",
     "static/media/logo.svg": "/Entertainment-App/static/media/logo.7d4aedc9f44f15655a966567c57a1f37.svg",
     "static/media/icon-play.svg": "/Entertainment-App/static/media/icon-play.8371f8d28787ad27a68ec37af3a6c7b0.svg",
-    "main.e4f376ee.css.map": "/Entertainment-App/static/css/main.e4f376ee.css.map",
-    "main.de9c2c32.js.map": "/Entertainment-App/static/js/main.de9c2c32.js.map",
+    "main.b3b5c60a.css.map": "/Entertainment-App/static/css/main.b3b5c60a.css.map",
+    "main.a202cb27.js.map": "/Entertainment-App/static/js/main.a202cb27.js.map",
     "307.4ab14241.chunk.css.map": "/Entertainment-App/static/css/307.4ab14241.chunk.css.map",
     "307.e0526357.chunk.js.map": "/Entertainment-App/static/js/307.e0526357.chunk.js.map",
     "897.eb518c31.chunk.css.map": "/Entertainment-App/static/css/897.eb518c31.chunk.css.map",
@@ -23,7 +23,7 @@
     "846.5f6d4174.chunk.js.map": "/Entertainment-App/static/js/846.5f6d4174.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4f376ee.css",
-    "static/js/main.de9c2c32.js"
+    "static/css/main.b3b5c60a.css",
+    "static/js/main.a202cb27.js"
   ]
 }
